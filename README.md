@@ -1,2 +1,3 @@
 # Skin_Disease
-Skin disease classifier using Mobilenetv2
+# Contains the working code of skin disease classifier using CNN model (MobilenetV2).
+# still under optimization 
